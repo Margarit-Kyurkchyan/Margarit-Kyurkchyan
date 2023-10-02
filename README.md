@@ -9,7 +9,7 @@
 </div>
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=Margarit-Kyurkchyan
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Margarit-Kyurkchyan)](https://git.io/streak-stats)
 
 <!--
 **Margarit-Kyurkchyan/Margarit-Kyurkchyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
