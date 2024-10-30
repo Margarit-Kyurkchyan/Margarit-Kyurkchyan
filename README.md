@@ -1,4 +1,4 @@
- I am a Full Stack Developer.
+ Full Stack Developer with a passion for creating seamless, user-centered applications from the ground up. I enjoy building everything from small business sites to rich interactive web apps. With expertise in front-end and back-end technologies, I thrive on turning complex challenges into simple, effective solutions. Let's build something great together!
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" title="yarn"  alt="yarn" width="40" height="40"/>&nbsp;
