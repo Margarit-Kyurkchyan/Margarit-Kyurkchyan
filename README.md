@@ -24,6 +24,8 @@ Back-End Development:
        title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" 
        title="MySQL" alt="MySQL" width="50" height="50"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" 
+       title="MongoDb" alt="MongoDb" width="50" height="50"/>
   <!-- Runtime -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" 
        title="Node.js" alt="Node.js" width="50" height="50"/>
