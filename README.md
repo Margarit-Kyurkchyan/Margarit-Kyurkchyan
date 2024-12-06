@@ -5,6 +5,8 @@
 
 🛠️ Technical Skills
 
+</br>
+<div>
 Back-End Development:
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; align-items: center; margin-top: 20px; padding: 10px;">
   <!-- Programming Languages -->
@@ -26,7 +28,10 @@ Back-End Development:
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" 
        title="Node.js" alt="Node.js" width="50" height="50"/>
 </div>
+</div>
+</br>
 
+<div>
 Front-End Development:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; align-items: center; margin-top: 20px; padding: 10px;">
@@ -41,7 +46,9 @@ Front-End Development:
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" 
        title="CSS3" alt="CSS3" width="50" height="50"/>
 </div>
-
+</div>
+</br>
+<div>
 DevOps & Tools:
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; align-items: center; margin-top: 20px; padding: 10px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
@@ -61,6 +68,8 @@ DevOps & Tools:
   <img src="https://static-00.iconduck.com/assets.00/openai-icon-505x512-pr6amibw.png" 
        title="OpenAI Integration" alt="OpenAI Integration" width="50" height="50"/>
 </div>
+</div>
+
 
 
 
